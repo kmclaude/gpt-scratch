@@ -1,0 +1,10 @@
+# Python virtual env (har machine pe naya banta hai)
+.venv/
+__pycache__/
+*.pyc
+
+# Trained model files (code chala ke dobara ban jaati hain)
+*.pt
+
+# Mac junk
+.DS_Store
